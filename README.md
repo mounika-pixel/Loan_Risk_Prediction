@@ -42,15 +42,19 @@ Loan Risk Prediction App is a machine learning–powered web application that he
 ---
 
 ## 📂 Folder Structure
+
+```
 loan_prediction_project/
-├── loan_app.py # Final Streamlit application
+├── loan_app.py                # Final Streamlit application
 ├── loan_prediction_model.pkl # Trained ML model
-├── requirements.txt # Package dependencies
-└── README.md # Project documentation
+├── requirements.txt          # Package dependencies
+└── README.md                 # Project documentation
+```
+
 
 ## 🌐 Live Demo
 
-🔗 **[Launch the App](https://your-streamlit-link.streamlit.app)**  
+🔗 **[Launch the App](https://loanriskprediction.streamlit.app/)**  
 
 ## 🙋‍♀️ Made With
 
